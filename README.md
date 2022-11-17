@@ -1,1 +1,66 @@
-# tabela
+<html>
+
+<table>
+<tr>
+< td>07:10</td>
+< td>matematica</td>
+< td>ed.fisica</td>
+< td>L.portuguesa</td>
+< td>historia</td>
+< td>biologia</td>
+
+</tr>
+
+<tr>
+< td>08:00</td>
+< td>quimica</td>
+< td>ptojeto de vida</td>
+< td>ed.financeira</td>
+< td>l.portuguesa</td>
+< td>fisica</td>
+
+</tr>
+
+<tr>
+< td>08:50</td>
+< td>arte</td>
+< td>filosofia</td>
+< td>projeto de vida</td>
+< td>filosofia</td>
+< td>ed.fisica</td>
+
+</tr>
+
+<tr>
+< td>09:50</td>
+< td>matematica</td>
+< td>geografia</td>
+< td>L.inglesa</td>
+< td>p.computacional</td>
+< td>fisica</td>
+
+</tr>
+
+<tr>
+< td>10:40</td>
+< td>ed.fisica</td>
+< td>historia</td>
+< td>l.inglesa</td>
+< td>geografia</td>
+< td>l.portuguesa</td>
+
+</tr>
+
+<tr>
+< td>horário</td>
+< td>segunda</td>
+< td>terça</td>
+< td>quarta</td>
+< td>quinta</td>
+< td>sexta</td>
+
+</tr>
+
+</table>
+
+</html>
