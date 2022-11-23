@@ -17,7 +17,7 @@
 
    <td>08:00</td>
    <td>quimica</td>
-   <td>ptojeto de vida</td>
+   <td>projeto de vida</td>
    <td>ed.financeira</td>
    <td>l.portuguesa</td>
    <td>fisica</td>
