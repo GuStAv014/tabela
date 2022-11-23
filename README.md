@@ -1,7 +1,9 @@
 <html>
 
 <table>
-<tr>
+
+ <tr>
+ 
 < td>07:10</td>
 < td>matematica</td>
 < td>ed.fisica</td>
@@ -12,6 +14,7 @@
 </tr>
 
 <tr>
+
 < td>08:00</td>
 < td>quimica</td>
 < td>ptojeto de vida</td>
@@ -22,6 +25,7 @@
 </tr>
 
 <tr>
+
 < td>08:50</td>
 < td>arte</td>
 < td>filosofia</td>
@@ -32,6 +36,7 @@
 </tr>
 
 <tr>
+
 < td>09:50</td>
 < td>matematica</td>
 < td>geografia</td>
@@ -42,6 +47,7 @@
 </tr>
 
 <tr>
+
 < td>10:40</td>
 < td>ed.fisica</td>
 < td>historia</td>
@@ -52,6 +58,7 @@
 </tr>
 
 <tr>
+
 < td>horário</td>
 < td>segunda</td>
 < td>terça</td>
